@@ -1,2 +1,1 @@
-“première ligne de code”
-ajouter ligne pour merge
+ajouter ligne  conflit
